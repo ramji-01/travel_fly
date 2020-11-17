@@ -1,0 +1,33 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT catalog (cd)+>
+<!ATTLIST catalog
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT cd (title,wishlist,country,flight,flightid,date?)>
+<!ATTLIST cd
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT wishlist (#PCDATA)>
+<!ATTLIST wishlist
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT country (#PCDATA)>
+<!ATTLIST country
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT flight (#PCDATA)>
+<!ATTLIST flight
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT flightid (#PCDATA)>
+<!ATTLIST flightid
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT date (#PCDATA)>
+<!ATTLIST date
+  xmlns CDATA #FIXED ''>

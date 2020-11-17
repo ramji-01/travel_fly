@@ -1,0 +1,27 @@
+[
+   {
+      "name": "Hongkong",
+      "id": "1",
+      "price": "1000 per head"
+   },
+   {
+      "name": "Delhi",
+      "id": "2",
+      "price": "2400 per head"
+   },
+   {
+      "name": "England",
+      "id": "3",
+      "price": "800 per head"
+   },
+   {
+      "name": "Kashmir",
+      "id": "4",
+      "price": "450 per head"
+   },
+   {
+      "name": "Bangalore",
+      "id": "5",
+      "price": "1350 per head"
+   }
+]
