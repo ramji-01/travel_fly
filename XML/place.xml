@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="values.xsl"?> 
+ <student> 
+  <s> 
+   <name> Delhi</name> 
+   <id >1</id > 
+   <price>10000 per head</price> 
+   
+  </s> 
+  <s> 
+   <name> Kashmir </name> 
+   <id >2</id > 
+   <price>24000 per head</price> 
+   
+  </s> 
+  <s>  
+   <name> Hongkong </name> 
+   <id >3</id > 
+   <price> 80000 per head</price> 
+   
+  </s> 
+  <s>  
+   <name> Australia </name> 
+   <id >4</id > 
+   <price> 45000 per head</price> 
+   
+  </s> 
+  <s>  
+   <name> Sri Lanka </name> 
+   <id >5</id > 
+   <price> 13500 per head</price> 
+  
+  </s> 
+ </student> 
